@@ -1,0 +1,476 @@
+[
+	{
+		"location": "Sydney, Australia",
+		"description": "Sydney, Australia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "harbor", "beach", "australia"],
+		"image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3lkbmV5JTJDJTIwQXVzdHJhbGlhfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Bali, Indonesia",
+		"description": "Bali, Indonesia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "indonesia"],
+		"image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFsaSUyQyUyMEluZG9uZXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Kyoto, Japan",
+		"description": "Kyoto, Japan is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "japan"],
+		"image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S3lvdG8lMkMlMjBKYXBhbnxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Santorini, Greece",
+		"description": "Santorini, Greece is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["island", "romantic", "volcanic", "greece"],
+		"image": "https://plus.unsplash.com/premium_photo-1661963643348-e95c6387ee8a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2FudG9yaW5pJTJDJTIwR3JlZWNlfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Phuket, Thailand",
+		"description": "Phuket, Thailand is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "thailand"],
+		"image": "https://plus.unsplash.com/premium_photo-1661962958462-9e52fda9954d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGh1a2V0JTJDJTIwVGhhaWxhbmR8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Honolulu, Hawaii, USA",
+		"description": "Honolulu, Hawaii, USA is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "usa", "hawaii"],
+		"image": "https://images.unsplash.com/photo-1547537352-ae90c682877e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9ub2x1bHV8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Paris, France",
+		"description": "Paris, France is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "romantic", "culture", "france", "paris"],
+		"image": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGFyaXMlMkMlMjBGcmFuY2V8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Rome, Italy",
+		"description": "Rome, Italy is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "italy"],
+		"image": "https://plus.unsplash.com/premium_photo-1661963265512-73e8d1053b9a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Um9tZSUyQyUyMEl0YWx5fGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Dubai, United Arab Emirates",
+		"description": "Dubai, United Arab Emirates is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["modern", "luxury", "city", "uae", "united arab emirates"],
+		"image": "https://plus.unsplash.com/premium_photo-1661963885635-2b428cedce28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RHViYWklMkMlMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Seoul, South Korea",
+		"description": "Seoul, South Korea is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "culture", "south korea", "korea"],
+		"image": "https://images.unsplash.com/photo-1579858737164-f5345c1394e9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2VvdWwlMkMlMjBTb3V0aCUyMEtvcmVhfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Bangkok, Thailand",
+		"description": "Bangkok, Thailand is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "temple", "thailand"],
+		"image": "https://plus.unsplash.com/premium_photo-1692897216262-3d349c694bfb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QmFuZ2tvayUyQyUyMFRoYWlsYW5kfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Jakarta, Indonesia",
+		"description": "Jakarta, Indonesia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "urban", "business", "indonesia"],
+		"image": "https://plus.unsplash.com/premium_photo-1733259891253-cb820ac92adf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SmFrYXJ0YSUyQyUyMEluZG9uZXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "London, United Kingdom",
+		"description": "London, United Kingdom is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "culture", "uk", "united kingdom"],
+		"image": "https://plus.unsplash.com/premium_photo-1694475484971-a4b987162fed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG9uZG9uJTJDJTIwVW5pdGVkJTIwS2luZ2RvbXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Barcelona, Spain",
+		"description": "Barcelona, Spain is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "beach", "art", "spain"],
+		"image": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmFyY2Vsb25hJTJDJTIwU3BhaW58ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Berlin, Germany",
+		"description": "Berlin, Germany is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "modern", "germany"],
+		"image": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVybGluJTJDJTIwR2VybWFueXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Istanbul, Türkiye",
+		"description": "Istanbul, Türkiye is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "turkey"],
+		"image": "https://images.unsplash.com/photo-1699811136524-6405676e9b05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SXN0YW5idWwlMkMlMjBUJUMzJUJDcmtpeWV8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Cairo, Egypt",
+		"description": "Cairo, Egypt is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "pyramid", "egypt"],
+		"image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2Fpcm8lMkMlMjBFZ3lwdHxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Cape Town, South Africa",
+		"description": "Cape Town, South Africa is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["coastal", "mountain", "nature", "south africa"],
+		"image": "https://images.unsplash.com/photo-1612860606900-25b4b0bc79ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2FwZSUyMFRvd24lMkMlMjBTb3V0aCUyMEFmcmljYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Rio de Janeiro, Brazil",
+		"description": "Rio de Janeiro, Brazil is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "city", "carnival", "brazil"],
+		"image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmlvJTIwZGUlMjBKYW5laXJvJTJDJTIwQnJhemlsfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Buenos Aires, Argentina",
+		"description": "Buenos Aires, Argentina is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "tango", "argentina"],
+		"image": "https://plus.unsplash.com/premium_photo-1694475023535-c423350c1d69?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QnVlbm9zJTIwQWlyZXMlMkMlMjBBcmdlbnRpbmF8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Toronto, Canada",
+		"description": "Toronto, Canada is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "diverse", "canada"],
+		"image": "https://plus.unsplash.com/premium_photo-1694475481348-7cbe417be129?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VG9yb250byUyQyUyMENhbmFkYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "New York City, USA",
+		"description": "New York City, USA is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "business", "usa"],
+		"image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmV3JTIwWW9yayUyMENpdHklMkMlMjBVU0F8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Los Angeles, USA",
+		"description": "Los Angeles, USA is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "beach", "glamour", "usa"],
+		"image": "https://images.unsplash.com/photo-1540952602130-34ce5b4bac66?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TG9zJTIwQW5nZWxlcyUyQyUyMFVTQXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Vancouver, Canada",
+		"description": "Vancouver, Canada is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "nature", "mountain", "canada"],
+		"image": "https://images.unsplash.com/photo-1578961509811-1f55a380e31f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmFuY291dmVyJTJDJTIwQ2FuYWRhfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Queenstown, New Zealand",
+		"description": "Queenstown, New Zealand is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["adventure", "mountain", "nature", "new zealand"],
+		"image": "https://plus.unsplash.com/premium_photo-1661964091508-b77d484a3003?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UXVlZW5zdG93biUyQyUyME5ldyUyMFplYWxhbmR8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Auckland, New Zealand",
+		"description": "Auckland, New Zealand is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "coastal", "sailing", "new zealand"],
+		"image": "https://images.unsplash.com/photo-1706284052484-f2d180ca73ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QXVja2xhbmQlMkMlMjBOZXclMjBaZWFsYW5kfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Tahiti, French Polynesia",
+		"description": "Tahiti, French Polynesia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "french polynesia"],
+		"image": "https://images.unsplash.com/photo-1738692620483-e4255eb3e80a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFRhaGl0aSUyQyUyMEZyZW5jaCUyMFBvbHluZXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Maldives, Maldives",
+		"description": "Maldives, Maldives is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "maldives"],
+		"image": "https://images.unsplash.com/photo-1647729007959-854a7500c030?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFsZGl2ZXMlMkMlMjBNYWxkaXZlc3xlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Fiji, Fiji",
+		"description": "Fiji, Fiji is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "fiji"],
+		"image": "https://images.unsplash.com/photo-1656071855457-7bdabdd58e7e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmlqaSUyQyUyMEZpaml8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Reykjavik, Iceland",
+		"description": "Reykjavik, Iceland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["nature", "volcanic", "geothermal", "iceland"],
+		"image": "https://images.unsplash.com/photo-1518156959312-07a5380c1261?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8UmV5a2phdmlrJTJDJTIwSWNlbGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Oslo, Norway",
+		"description": "Oslo, Norway is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "scenic", "fjord", "norway"],
+		"image": "https://plus.unsplash.com/premium_photo-1697730193504-ad136ca1ad0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3NsbyUyQyUyME5vcndheXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Stockholm, Sweden",
+		"description": "Stockholm, Sweden is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "coastal", "archipelago", "sweden"],
+		"image": "https://plus.unsplash.com/premium_photo-1733306464752-4bb303eac800?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U3RvY2tob2xtJTJDJTIwU3dlZGVufGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Helsinki, Finland",
+		"description": "Helsinki, Finland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "design", "coastal", "finland"],
+		"image": "https://images.unsplash.com/photo-1703114442990-3b2dc8c60b60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEhlbHNpbmtpJTJDJTIwRmlubGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Zurich, Switzerland",
+		"description": "Zurich, Switzerland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "mountain", "finance", "switzerland"],
+		"image": "https://images.unsplash.com/photo-1689717850353-92c66a4f1441?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8WnVyaWNoJTJDJTIwU3dpdHplcmxhbmR8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Venice, Italy",
+		"description": "Venice, Italy is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "romantic", "canal", "italy"],
+		"image": "https://plus.unsplash.com/premium_photo-1661964022501-12cce254e8cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmVuaWNlJTJDJTIwSXRhbHl8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Prague, Czech Republic",
+		"description": "Prague, Czech Republic is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "romantic", "czech"],
+		"image": "https://images.unsplash.com/photo-1458150945447-7fb764c11a92?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UHJhZ3VlJTJDJTIwQ3plY2glMjBSZXB1YmxpY3xlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Vienna, Austria",
+		"description": "Vienna, Austria is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "music", "austria"],
+		"image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Vmllbm5hJTJDJTIwQXVzdHJpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Budapest, Hungary",
+		"description": "Budapest, Hungary is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "thermal", "history", "hungary"],
+		"image": "https://plus.unsplash.com/premium_photo-1680721310298-832f3558523d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QnVkYXBlc3QlMkMlMjBIdW5nYXJ5fGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Warsaw, Poland",
+		"description": "Warsaw, Poland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "modern", "poland"],
+		"image": "https://images.unsplash.com/photo-1743358772500-1d69d20a2db4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2Fyc2F3JTJDJTIwUG9sYW5kfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Lisbon, Portugal",
+		"description": "Lisbon, Portugal is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "coastal", "history", "portugal"],
+		"image": "https://images.unsplash.com/photo-1639515918990-c283ecdfb0fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGlzYm9uJTJDJTIwUG9ydHVnYWx8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Marrakech, Morocco",
+		"description": "Marrakech, Morocco is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "market", "desert", "morocco"],
+		"image": "https://plus.unsplash.com/premium_photo-1673415819362-c2ca640bfafe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFycmFrZWNoJTJDJTIwTW9yb2Njb3xlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Doha, Qatar",
+		"description": "Doha, Qatar is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["modern", "luxury", "city", "qatar"],
+		"image": "https://images.unsplash.com/photo-1669815007479-494b3b51c2c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RG9oYSUyQyUyMFFhdGFyfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Amman, Jordan",
+		"description": "Amman, Jordan is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "culture", "jordan"],
+		"image": "https://images.unsplash.com/photo-1630158922952-a92c88afbc4c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QW1tYW4lMkMlMjBKb3JkYW58ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Jerusalem, Israel",
+		"description": "Jerusalem, Israel is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["history", "culture", "religious", "israel"],
+		"image": "https://images.unsplash.com/photo-1632487112404-05eedfe234df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SmVydXNhbGVtJTJDJTIwSXNyYWVsfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Petra, Jordan",
+		"description": "Petra, Jordan is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "jordan"],
+		"image": "https://images.unsplash.com/photo-1615811648503-479d06197ff3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGV0cmElMkMlMjBKb3JkYW58ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Siem Reap, Cambodia",
+		"description": "Siem Reap, Cambodia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "cambodia"],
+		"image": "https://plus.unsplash.com/premium_photo-1716903508664-8e23f6ba4331?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2llbSUyMFJlYXAlMkMlMjBDYW1ib2RpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Hanoi, Vietnam",
+		"description": "Hanoi, Vietnam is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "history", "vietnam", "asia"],
+		"image": "https://images.unsplash.com/photo-1603414586884-c2ed7e8d325d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SGFub2klMkMlMjBWaWV0bmFtfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Ho Chi Minh City, Vietnam",
+		"description": "Ho Chi Minh City, Vietnam is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "history", "vietnam"],
+		"image": "https://plus.unsplash.com/premium_photo-1661923085799-e5844a0fae71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eSUyQyUyMFZpZXRuYW18ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Manila, Philippines",
+		"description": "Manila, Philippines is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "urban", "history", "philippines"],
+		"image": "https://plus.unsplash.com/premium_photo-1733317255990-b71270703472?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fE1hbmlsYSUyQyUyMFBoaWxpcHBpbmVzfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Cebu, Philippines",
+		"description": "Cebu, Philippines is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["island", "beach", "diving", "philippines"],
+		"image": "https://images.unsplash.com/photo-1715884487912-27ec236680e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENlYnUlMkMlMjBQaGlsaXBwaW5lc3xlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Kathmandu, Nepal",
+		"description": "Kathmandu, Nepal is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "mountain", "history", "temple", "nepal"],
+		"image": "https://images.unsplash.com/photo-1708407298307-7f598cde2532?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S2F0aG1hbmR1JTJDJTIwTmVwYWx8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Lhasa, Tibet",
+		"description": "Lhasa, Tibet is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["mountain", "religious", "culture", "tibet"],
+		"image": "https://plus.unsplash.com/premium_photo-1732737294727-b51ecd0caeb1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TGhhc2ElMkMlMjBUaWJldHxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Beijing, China",
+		"description": "Beijing, China is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "culture", "china"],
+		"image": "https://images.unsplash.com/photo-1662792041316-91d1aa43ad4c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmVpamluZyUyQyUyMENoaW5hfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Shanghai, China",
+		"description": "Shanghai, China is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "business", "china"],
+		"image": "https://images.unsplash.com/photo-1461272395971-7c6ffaa435b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U2hhbmdoYWklMkMlMjBDaGluYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Hong Kong, China",
+		"description": "Hong Kong, China is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "finance", "culture", "hong kong"],
+		"image": "https://plus.unsplash.com/premium_photo-1692343677119-e068ca8d99ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SG9uZyUyMEtvbmclMkMlMjBDaGluYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Taipei, Taiwan",
+		"description": "Taipei, Taiwan is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "modern", "taiwan"],
+		"image": "https://plus.unsplash.com/premium_photo-1661963920742-f5b23a6a1b44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VGFpcGVpJTJDJTIwVGFpd2FufGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Singapore, Singapore",
+		"description": "Singapore, Singapore is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "gardens", "singapore"],
+		"image": "https://plus.unsplash.com/premium_photo-1697729432930-3f11644e9184?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2luZ2Fwb3JlJTJDJTIwU2luZ2Fwb3JlfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Kuala Lumpur, Malaysia",
+		"description": "Kuala Lumpur, Malaysia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "modern", "culture", "malaysia"],
+		"image": "https://plus.unsplash.com/premium_photo-1700955569575-439bed2d50f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S3VhbGElMjBMdW1wdXIlMkMlMjBNYWxheXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Langkawi, Malaysia",
+		"description": "Langkawi, Malaysia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "malaysia"],
+		"image": "https://images.unsplash.com/photo-1727884872102-dd7b173c7a46?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGFuZ2thd2klMkMlMjBNYWxheXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Colombo, Sri Lanka",
+		"description": "Colombo, Sri Lanka is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "coastal", "culture", "sri lanka"],
+		"image": "https://images.unsplash.com/photo-1546656495-fc838de15e5c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29sb21ibyUyQyUyMFNyaSUyMExhbmthfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Male, Maldives",
+		"description": "Male, Maldives is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "island", "maldives"],
+		"image": "https://media.istockphoto.com/id/187345322/photo/tropical-white-sand-maldives.webp?a=1&b=1&s=612x612&w=0&k=20&c=7HzBxGw8123BEQYiK5w8fD3hK_hRNUR5JDJm-MWhD-o="
+	},
+	{
+		"location": "Muscat, Oman",
+		"description": "Muscat, Oman is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "desert", "coastal", "oman"],
+		"image": "https://images.unsplash.com/photo-1680181825817-838f9bf98e2b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TXVzY2F0JTJDJTIwT21hbnxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Tehran, Iran",
+		"description": "Tehran, Iran is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "history", "iran"],
+		"image": "https://images.unsplash.com/photo-1578902848213-b7d89464fc5e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VGVocmFuJTJDJTIwSXJhbnxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Athens, Greece",
+		"description": "Athens, Greece is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "greece"],
+		"image": "https://plus.unsplash.com/premium_photo-1661911756283-fd0fbefee201?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QXRoZW5zJTJDJTIwR3JlZWNlfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Edinburgh, Scotland",
+		"description": "Edinburgh, Scotland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "history", "castle", "scotland"],
+		"image": "https://images.unsplash.com/photo-1756635489089-c2138a9a380f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RWRpbmJ1cmdoJTJDJTIwU2NvdGxhbmR8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Dublin, Ireland",
+		"description": "Dublin, Ireland is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "pub", "ireland"],
+		"image": "https://images.unsplash.com/photo-1549918864-48ac978761a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RHVibGluJTJDJTIwSXJlbGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Cancún, Mexico",
+		"description": "Cancún, Mexico is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["beach", "tropical", "party", "mexico"],
+		"image": "https://plus.unsplash.com/premium_photo-1676517032235-89c25b95d400?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FuYyVDMyVCQW4lMkMlMjBNZXhpY298ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Cusco, Peru",
+		"description": "Cusco, Peru is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["mountain", "history", "inca", "peru"],
+		"image": "https://plus.unsplash.com/premium_photo-1694475501155-2f344cea9eb3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q3VzY28lMkMlMjBQZXJ1fGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Machu Picchu, Peru",
+		"description": "Machu Picchu, Peru is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "history", "peru"],
+		"image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFjaHUlMjBQaWNjaHUlMkMlMjBQZXJ1fGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Lima, Peru",
+		"description": "Lima, Peru is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "coastal", "gastronomy", "peru"],
+		"image": "https://images.unsplash.com/photo-1580530719837-952e0515b69a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGltYSUyQyUyMFBlcnV8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Bogotá, Colombia",
+		"description": "Bogotá, Colombia is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "culture", "mountain", "colombia"],
+		"image": "https://plus.unsplash.com/premium_photo-1697729999190-4cd4ae78be26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Qm9nb3QlQzMlQTElMkMlMjBDb2xvbWJpYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Quito, Ecuador",
+		"description": "Quito, Ecuador is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["mountain", "history", "equator", "ecuador"],
+		"image": "https://images.unsplash.com/photo-1610226977124-9fd2755d09f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UXVpdG8lMkMlMjBFY3VhZG9yfGVufDB8fDB8fHww"
+	},
+	{
+		"location": "Santiago, Chile",
+		"description": "Santiago, Chile is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["city", "mountain", "wine", "culture", "chile"],
+		"image": "https://plus.unsplash.com/premium_photo-1697730089767-45e915ef27f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2FudGlhZ28lMkMlMjBDaGlsZXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Havana, Cuba",
+		"description": "Havana, Cuba is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "history", "tropical", "cuba"],
+		"image": "https://images.unsplash.com/photo-1581253058396-24685f752e68?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGF2YW5hJTJDJTIwQ3ViYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "San Juan, Puerto Rico",
+		"description": "San Juan, Puerto Rico is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["coastal", "history", "tropical", "puerto rico"],
+		"image": "https://plus.unsplash.com/premium_photo-1733259774864-ee718f86b9b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2FuJTIwSnVhbiUyQyUyMFB1ZXJ0byUyMFJpY298ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Zanzibar, Tanzania",
+		"description": "Zanzibar, Tanzania is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["island", "beach", "spice", "tanzania"],
+		"image": "https://images.unsplash.com/photo-1670147564338-40302cbf6026?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8WmFuemliYXIlMkMlMjBUYW56YW5pYXxlbnwwfHwwfHx8MA%3D%3D"
+	},
+	{
+		"location": "Nairobi, Kenya",
+		"description": "Nairobi, Kenya is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["safari", "wildlife", "city", "kenya"],
+		"image": "https://media.istockphoto.com/id/2195460420/photo/wild-african-giraffe-stands-tall-against-urban-nairobi-dawn-view.webp?a=1&b=1&s=612x612&w=0&k=20&c=NzA2bxkiuHxWh4JoHjvMmPuFB2R-xFPVY0L0fRnP3oI="
+	},
+	{
+		"location": "Arusha, Tanzania",
+		"description": "Arusha, Tanzania is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["safari", "mountain", "wildlife", "tanzania"],
+		"image": "https://images.unsplash.com/photo-1529350106294-32d4d5f8fdb5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXJ1c2hhJTJDJTIwVGFuemFuaWF8ZW58MHx8MHx8fDA%3D"
+	},
+	{
+		"location": "Kathmandu Valley, Nepal",
+		"description": "Kathmandu Valley, Nepal is a popular destination offering unique attractions, cultural charm, and memorable experiences. It provides a mix of scenic views, local activities, and welcoming atmosphere that appeals to travelers worldwide.",
+		"tags": ["culture", "temple", "mountain", "nepal"],
+		"image": "https://media.istockphoto.com/id/2243396359/photo/magnificent-temples-and-ancient-rooftops-of-patan-durbar-square-showcasing-nepals-historic.webp?a=1&b=1&s=612x612&w=0&k=20&c=XcWrXntVQnKis2vEdIEfCt_JhYt91Kals-7au-RMqpM="
+	}
+]
