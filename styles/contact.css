@@ -1,0 +1,82 @@
+main {
+	display: grid;
+	place-items: center;
+}
+
+fieldset {
+	padding: 1.5rem;
+	border-radius: 1rem;
+	width: 35rem;
+	background-color: hsla(197, 90%, 4%, 0.5);
+	border: 1px solid var(--primary);
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+}
+
+fieldset h1 {
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+
+.input-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+	margin-bottom: 1rem;
+}
+
+.input-field label {
+	font-size: 0.9rem;
+	font-weight: 500;
+}
+
+.input-field input,
+.input-field textarea {
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+	border: 1px solid var(--muted);
+	background-color: var(--background);
+	color: var(--text);
+	font-size: 0.9rem;
+	width: 100%;
+}
+
+.input-field input:focus,
+.input-field textarea:focus {
+	border-color: var(--primary);
+	outline: none;
+}
+
+fieldset button {
+	padding: 0.7rem 1.5rem;
+	border: none;
+	border-radius: 0.5rem;
+	background-color: var(--primary);
+	color: var(--background);
+	font-size: 1rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: background-color 0.2s ease;
+	width: 100%;
+}
+
+fieldset button:hover {
+	background-color: hsl(198, 70%, 33%);
+	color: hsl(198, 25%, 77%);
+}
+
+@media (max-width: 768px) {
+	main {
+		margin-top: 2rem;
+	}
+	form {
+		width: 100%;
+		padding: 1rem;
+	}
+	fieldset {
+		width: 100%;
+	}
+}

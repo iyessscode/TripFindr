@@ -1,0 +1,105 @@
+body {
+	max-height: 100vh;
+	overflow: hidden;
+}
+
+main {
+	margin-top: 2rem;
+	position: relative;
+	padding: 0 2rem;
+}
+
+main h1.title {
+	font-size: 4rem;
+}
+
+main p.description {
+	font-size: 1rem;
+	padding: 2rem;
+	background-color: hsla(197, 90%, 4%, 0.395);
+	border-radius: 1rem;
+}
+
+main figure {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	padding: 0.4rem 1rem;
+	margin-top: 1rem;
+	border-radius: 1rem;
+	background-color: hsla(197, 90%, 4%, 0.395);
+	position: absolute;
+	bottom: 4rem;
+	right: 2rem;
+}
+
+main figure img {
+	width: 3rem;
+	height: 3rem;
+	border-radius: 50%;
+}
+
+main figcaption {
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+	align-items: start;
+	justify-content: center;
+}
+
+main figcaption h2 {
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+main figcaption p {
+	color: var(--muted);
+	font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+	main {
+		margin-top: 8rem;
+		padding: 0 1rem;
+		position: relative;
+	}
+
+	main h1.title {
+		font-size: 2rem;
+		text-align: center;
+	}
+
+	main p.description {
+		font-size: 0.8rem;
+	}
+
+	main figure {
+		display: flex;
+		gap: 1rem;
+		padding: 0.4rem 1rem;
+		background-color: hsla(197, 90%, 4%, 0.395);
+		border-radius: 1rem;
+		position: absolute;
+		bottom: 5rem;
+		right: 0;
+		left: 0;
+		margin: 0 1rem;
+	}
+
+	main figcaption {
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+		align-items: start;
+		justify-content: center;
+	}
+
+	main figcaption h2 {
+		font-size: 1.25rem;
+		font-weight: 600;
+	}
+
+	main figcaption p {
+		color: var(--muted);
+	}
+}
