@@ -12,11 +12,15 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	color: var(--foreground);
+	max-height: 100vh;
+	overflow: hidden;
 }
 
 header {
 	height: 4rem;
 	background-color: hsla(193, 14%, 13%, 0.389);
+	position: sticky;
+	top: 0;
 }
 
 input:-webkit-autofill,
@@ -125,7 +129,7 @@ main {
 	inset: 0;
 	border-radius: 8px;
 	pointer-events: none;
-	background: red;
+	background: hsla(189, 11%, 37%, 0.281);
 	filter: blur(2px);
 	z-index: -1;
 }
@@ -160,6 +164,9 @@ main {
 @media (max-width: 768px) {
 	header {
 		height: auto;
+		position: absolute;
+		width: 100%;
+		top: 0;
 	}
 
 	.navbar {
