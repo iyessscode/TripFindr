@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="styles/globals.css" />
+		<link rel="stylesheet" href="styles/about.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"
+		/>
+		<title>TripFindr | About Us</title>
+	</head>
+	<body>
+		<header>
+			<nav class="navbar">
+				<a href="index.html">
+					<img src="assets/icons/logo.svg" alt="TripFindr Logo" class="" />
+				</a>
+				<div class="hamburger" onclick="toggleMenu()">
+					<span></span>
+				</div>
+				<ul class="nav-menu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html" class="active">About Us</a></li>
+					<li><a href="contact.html">Contact Us</a></li>
+				</ul>
+				<div class="search-input">
+					<input
+						type="text"
+						name="search"
+						placeholder="Search destinations or keywords"
+					/>
+					<button type="button" name="button-search">
+						<img src="assets/icons/search-icon.svg" alt="Search Icon" />
+					</button>
+				</div>
+			</nav>
+		</header>
+		<div class="backdrop">
+			<img src="assets/images//backdrop.jpg" alt="backdrop" />
+			<span class="backdrop-shape" />
+		</div>
+		<main>
+			<h1 class="title">About Us</h1>
+			<p class="description">
+				<strong>TripFindr</strong> is your gateway to discovering the world with
+				ease, inspiration, and excitement. Built as a lightweight yet visually
+				engaging travel discovery platform, TripFindr helps you explore more
+				than 50 of destinations through a seamless, fast, and intuitive
+				experience powered entirely by curated
+				<strong>static JSON data</strong>.
+				<br />
+				<br />
+				With a highly responsive interface, the platform allows instant
+				filtering through dynamic tag-based categories like
+				<strong>beach</strong>, <strong>city</strong>,
+				<strong>mountain</strong>, <strong>culture</strong>,
+				<strong>nature</strong>, <strong>historical</strong>,
+				<strong>island</strong>, and <strong>temple</strong>—helping you
+				discover exactly what matches your travel mood.
+			</p>
+			<figure>
+				<img src="assets/images/avatar.jpeg" alt="avatar" />
+				<figcaption>
+					<h2>Aldiyes Paskalis Birta</h2>
+					<p>Developer</p>
+				</figcaption>
+			</figure>
+		</main>
+		<script src="scripts/index.js"></script>
+	</body>
+</html>

@@ -12,8 +12,6 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	color: var(--foreground);
-	max-height: 100vh;
-	overflow: hidden;
 }
 
 header {
@@ -167,6 +165,11 @@ main {
 		position: absolute;
 		width: 100%;
 		top: 0;
+		z-index: 50;
+	}
+
+	header.show {
+		background-color: hsla(188, 12%, 13%, 0.94);
 	}
 
 	.navbar {
@@ -175,7 +178,6 @@ main {
 		align-items: center;
 	}
 
-	/* Show hamburger */
 	.hamburger {
 		display: block;
 		width: 2rem;
@@ -211,7 +213,6 @@ main {
 		top: 6px;
 	}
 
-	/* Stack menu and search bar */
 	.navbar ul {
 		width: 100%;
 		flex-direction: column;
@@ -229,7 +230,6 @@ main {
 		margin-top: 1rem;
 	}
 
-	/* Center logo + hamburger on top */
 	.navbar > a {
 		order: 1;
 	}
