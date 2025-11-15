@@ -159,6 +159,79 @@ main {
 	background-color: var(--primary);
 }
 
+/* SEARCH */
+
+.hidden {
+	display: none;
+}
+
+#resultsContainer {
+	position: absolute;
+	right: 1rem;
+	padding: 1rem;
+	width: 32rem;
+	height: calc(100vh - 10rem);
+	overflow-y: scroll;
+	gap: 1rem;
+	border-radius: 1rem;
+	background-color: #fafafa;
+	z-index: 1;
+}
+
+#resultsContainer .result-card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	color: var(--primary);
+	margin-bottom: 1rem;
+}
+
+.result-card img {
+	height: 20rem;
+	width: auto;
+	border-radius: 10px 10px 0 0;
+}
+
+#resultsContainer figcaption {
+	display: inline-block;
+	margin-right: 6px;
+	padding: 4px 8px;
+	border-radius: 6px;
+	font-size: 0.8rem;
+}
+
+#resultsContainer figcaption p {
+	color: var(--muted);
+}
+
+.no-result {
+	color: var(--muted);
+	text-align: center;
+	margin-top: 2rem;
+}
+
+#resultsContainer button {
+	padding: 0.7rem 1.5rem;
+	border: none;
+	border-radius: 0.5rem;
+	background-color: var(--primary);
+	color: white;
+	font-size: 1rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: background-color 0.2s ease;
+	width: 100%;
+	margin: 1rem 0;
+}
+
+#resultsContainer button:hover {
+	background-color: hsl(198, 67%, 42%);
+	color: hsl(198, 17%, 85%);
+}
+
 @media (max-width: 768px) {
 	header {
 		height: auto;
@@ -245,5 +318,20 @@ main {
 
 	.search-input {
 		order: 4;
+	}
+
+	#resultsContainer {
+		position: absolute;
+		inset: 0;
+		margin-top: 8rem;
+		overflow-y: scroll;
+		border-radius: 1rem;
+		width: 100%;
+	}
+
+	.result-card img {
+		height: 10rem;
+		width: auto;
+		border-radius: 10px 10px 0 0;
 	}
 }

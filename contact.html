@@ -31,13 +31,15 @@
 					<input
 						type="text"
 						name="search"
+						id="searchInput"
 						placeholder="Search destinations or keywords"
 					/>
-					<button type="button" name="button-search">
+					<button type="button" id="searchButton" name="button-search">
 						<img src="assets/icons/search-icon.svg" alt="Search Icon" />
 					</button>
 				</div>
 			</nav>
+			<div id="resultsContainer" class="hidden"></div>
 		</header>
 		<div class="backdrop">
 			<img src="assets/images//backdrop.jpg" alt="backdrop" />
@@ -79,5 +81,6 @@
 			</form>
 		</main>
 		<script src="scripts/index.js"></script>
+		<script src="scripts/search.js"></script>
 	</body>
 </html>
